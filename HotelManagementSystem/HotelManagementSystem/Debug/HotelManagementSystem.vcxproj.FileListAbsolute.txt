@@ -1,0 +1,6 @@
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\Debug\HotelManagementSystem.vcxproj.AssemblyReference.cache
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\Debug\HotelManagementSystem.vcxproj.SuggestedBindingRedirects.cache
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\Debug\HotelManagementSystem.loginForm.resources
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\Debug\HotelManagementSystem.MainForm.resources
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\Debug\HotelManagementSystem.RegisterForm.resources
+D:\Documents\CSIT\2ndSem\oop\Projects\HotelManagementSystem\HotelManagementSystem\Debug\HotelManagementSystem.vcxproj.GenerateResource.cache
